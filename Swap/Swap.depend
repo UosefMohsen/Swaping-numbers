@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1689580581 source:c:\users\umohs\desktop\swap\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1689637204 source:c:\users\umohs\desktop\embedded\swap\main.c
+	<stdio.h>
+	<stdlib.h>
+
